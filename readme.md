@@ -149,6 +149,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Formester](https://www.formester.com) - Forms and email marketing (lead collection, email campaigns, and newsletters) with integrations.
 - [StaticKit](https://statickit.com) - Modern forms for static sites, with native support for React.
 - [SheetDB](https://sheetdb.io/) - Turn a Google Spreadsheet into a JSON API.
+- [Form2Channel](https://form2channel.com/) - Post your HTML form to Form2Channel to store submissions in Google Sheets and receive them via email, Slack or Telegram. No signups, no costs, no limits.
 
 #### Provided by the Host
 
